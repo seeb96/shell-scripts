@@ -6,5 +6,4 @@
 # Check to see if the useradd command succeeded.
 # Set the password.
 # Check to see if the passwd command succeeded.
-# Display the username, password, and the host where the user was
-created.
+# Display the username, password, and the host where the user was created.
